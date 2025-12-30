@@ -70,4 +70,4 @@ df.fillna('Unknown', inplace=True)
 
 # Export Cleaned Data
 
-df.to_csv(r'C:\Users\mypath\Data Analyst\CSV\messy_data_cleaned.csv', index=False)
+df.to_csv(r'C:\Users\mypath\CSV\messy_data_cleaned.csv', index=False)
