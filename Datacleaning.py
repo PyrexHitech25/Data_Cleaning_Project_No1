@@ -13,7 +13,7 @@ pd.set_option('display.width', 2000)
 
 # Import Data
 
-df = pd.read_csv(r'C:\Users\loren\Documents\Data Analyst\CSV\messy_sales_data.csv')
+df = pd.read_csv(r'C:\Users\mypath\CSV\messy_sales_data.csv')
 
 # Data Cleaning
     # Renaming Columns
