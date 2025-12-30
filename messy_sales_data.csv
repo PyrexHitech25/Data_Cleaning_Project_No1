@@ -1,0 +1,20 @@
+Order ID,order_date,Customer Name,customer_age,Product,Category,Quantity,Price,Total_Sales,Country,Sales_Rep,Payment_Method
+1001,2023-01-15,Anna Müller,34,Laptop,Electronics,1,1200,1200,Germany,John Doe,Credit Card
+1002,15/01/2023, Max Mustermann ,NaN,Smartphone,Electrnics,2,699,1398,DE,Jane Smith,PayPal
+1003,2023.01.16,Lisa Schmidt,28,Headphones,Electronics,1,199,199€,Germany,,CreditCard
+1004,2023-01-17,Tom Becker,45,Office Chair,Furniture,1,249.99,249.99,Germany,John Doe,Cash
+1005,2023-01-17,Tom Becker,45,Office Chair,Furniture,1,249.99,249.99,Germany,John Doe,Cash
+1006,2023-01-18,Julia Weber,,Desk,Furniture,1,399,three hundred ninety nine,Germany,Jane Smith,Debit Card
+1007,18-01-2023,Markus Klein,52,Monitor,Electronics,2,299,598,Germany,John Doe,credit card
+1008,2023-01-19,Sara Fischer,27,Mouse,Electronics,5,25,125,Germany,Jane Smith,PayPal
+1009,2023-01-20,Peter Lang,61,Keyboard,Electronics,-1,49,-49,Germany,John Doe,Credit Card
+1010,2023/01/21,Clara Hoffmann,NaN,Laptop,Electronics,1,1200,1200,Deutschland,Jane Smith,PayPal
+1011,2023-01-22,,39,Tablet,Electronics,1,499,499,Germany,John Doe,
+1012,2023-01-23,Michael Braun,120,Smartphone,Electronics,1,699,699,Germany,Jane Smith,Credit Card
+1013,2023-13-01,Laura König,31,Desk Lamp,Home,2,39.99,79.98,Germany,John Doe,Cash
+1014,2023-01-25,Andreas Wolf,44,Sofa,Furnture,1,899,899,Germany,Jane Smith,DebitCard
+1015,2023-01-26,Nina Schwarz,29,Notebook,Electronics,1,"1,299",1299,Germany,John Doe,Credit Card
+1016,2023-01-27, Felix Meier,33,Mousepad,Electronics,3,9.99,29.97,GER,Jane Smith,Paypal
+1017,2023-01-28,Katharina Jung,26,Smart Watch,Electronics,1,199,199,Germany,John Doe,Apple Pay
+1018,2023-01-29,Stefan Roth,48,TV,Electronics,1,4999,99999,Germany,Jane Smith,Credit Card
+1019,,???,unknown,,Electronics,,,$$$,Mars,,Crypto
